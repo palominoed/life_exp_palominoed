@@ -1,0 +1,22 @@
+---
+title: "git_bash_practice_life"
+author: "Edgar Palomino"
+date: "1/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Set Up
+```{r}
+library(tidyverse)
+library(dplyr)
+gapminder::gapminder_unfiltered
+```
+
+
+
+
+
